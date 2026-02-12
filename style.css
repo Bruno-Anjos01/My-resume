@@ -1,0 +1,38 @@
+body{
+    background: #00acf0;
+    background: linear-gradient(90deg, rgba(0, 172, 240, 1) 30%, rgba(19, 140, 174, 1) 65%, rgba(39, 107, 107, 1) 100%, rgba(87, 199, 133, 1) 100%, rgba(237, 221, 83, 1) 100%);
+    font-family: Arial;
+    font-size:medium;
+    text-align: center;
+    padding: 10px;
+    height: 10px;
+    right: 10px;
+}
+
+h1,h2,p{
+    text-align: center;
+    color: white;
+}
+
+
+img{
+    right: 500px;
+    height: 300px;
+    border:solid 10px white;
+    border-radius: 30px;
+}
+
+article{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+nav{
+    color: white;
+}
+
+footer{
+    background-color: rgb(174, 0, 255);
+    border-radius: 10px;
+}
